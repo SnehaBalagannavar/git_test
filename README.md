@@ -1,3 +1,3 @@
 # git_test
-
-#sneha
+My first GitHub repo!
+Hello Odin!
